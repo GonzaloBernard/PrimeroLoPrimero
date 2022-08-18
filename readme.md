@@ -17,3 +17,12 @@ git commit -m "Comentario del commit"
 git push
 
 Si ningún comando tiró error, los cambios ya se actualizaron en github.com
+
+# Siguiente paso, cambiar de rama 
+
+Git te permite trabajar en distintas ramas, lo más común es tener una rama principal (generalmente se llaman master) y una rama para ior tirando lo nuevo que no está testeado a fondo (generalmente se llama develop).
+Para cambiarte a una rama que ya existe lo haces con el comando checkout
+
+git checkout develop
+
+Y seguir las instrucciones del readme que está en esa rama
