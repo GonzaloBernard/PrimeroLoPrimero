@@ -1,1 +1,4 @@
 Escribir algo
+git add -A
+git commit -m "Comentario del commit"
+git push
