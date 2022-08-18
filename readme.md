@@ -17,3 +17,18 @@ git commit -m "Comentario del commit"
 git push
 
 Si ningún comando tiró error, los cambios ya se actualizaron en github.com
+
+//////////////////////////////////////////////////////////
+
+# HTML
+
+Aprovechando para meter un poco de html, en el Visual Studio andá a las extensiones (en la barra de la izquierda arriba, el ultimo icono que son 4 cuadraditos) e instalate Live Server.
+Cuando se instala, bien abajo a la derecha aparece un "Go Live", hacele clic y te levanta el archivo index.html como si fuera una pagina web.
+Cualquier cambio que hagas te lo muestra en el navegador, esto sería un entorno Local (lo que cambies o agregues solamente vos desde tu pc lo podes ver), para meterlo el github tenes que tirar devuelta los 3 comandos 
+
+git add -A
+
+git commit -m "Comentario del commit"
+
+git push
+
