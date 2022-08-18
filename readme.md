@@ -1,5 +1,5 @@
 Clonar el proyecto usando consola cmd o powershell. 
-Abris la consola, paras en algúna carpeta y tiras los comandos:
+Abris la consola, te paras en algúna carpeta y tiras los comandos:
 
 git clone https://github.com/GonzaloBernard/Arrancanding
 
