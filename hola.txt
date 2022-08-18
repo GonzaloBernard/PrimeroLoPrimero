@@ -12,3 +12,5 @@ Escribir algo en archivo hola.txt y pushear esos cambios al repositorio
 git add -A
 git commit -m "Comentario del commit"
 git push
+
+Si ningún comando tiró error, los cambios ya se actualizaron en github.com
