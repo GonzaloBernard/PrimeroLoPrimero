@@ -32,3 +32,17 @@ Programar para vivir
 asdasd
 
 VIVa peron
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LISTA DE REPRODUCCIÓN:
+
+https://www.youtube.com/watch?v=UB1O30fR-EE -> HTML FOR BEGGINERS
+
+https://www.youtube.com/watch?v=p0bGHP-PXD4 -> HTML + CSS, ES MAS LARGO PERO ENSEÑA COMO HACER DEPLOY A NETLIFY (SUBIR TU WEB)
+
+https://www.youtube.com/watch?v=4sosXZsdy-s -> HTML + CSS + BOOTSTRAP
+
+https://www.youtube.com/watch?v=hdI2bqOjy3c -> JAVASCRIPT FOR BEGINNERS
+
+https://www.youtube.com/watch?v=JkeyKeK3V24 -> HTML + CSS + JAVASCRIPT
