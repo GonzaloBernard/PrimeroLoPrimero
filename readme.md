@@ -23,6 +23,8 @@ Si ningún comando tiró error, los cambios ya se actualizaron en github.com
 Git te permite trabajar en distintas ramas, lo más común es tener una rama principal (generalmente se llaman master) y una rama para ior tirando lo nuevo que no está testeado a fondo (generalmente se llama develop).
 Para cambiarte a una rama que ya existe lo haces con el comando checkout
 
-git checkout develop
+git checkout develops
 
 Y seguir las instrucciones del readme que está en esa rama
+
+Programar para vivir
