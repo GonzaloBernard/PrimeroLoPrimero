@@ -30,7 +30,14 @@ git add -A
 
 git commit -m "Comentario del commit"
 
+#Loguear en github
+git config --global --add user.name UserName
+git config --global --add user.email correo@example.com
+
 git push
 
 (como es una nueva rama, te pide que especifiques a que rama queres pushear los cambios, si tiras una sola vez git push --set-upstream origin develop ya lo dejas seteado y despues tiras directamente git push)
 
+
+
+HOla
