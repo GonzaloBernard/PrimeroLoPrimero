@@ -29,20 +29,7 @@ Y seguir las instrucciones del readme que está en esa rama
 
 Programar para vivir
 
-asdasd
 
-VIVa peron
+# Dejar el nombre de usuario de github.com (y color del logo) en cualquier parte de la lista
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-LISTA DE REPRODUCCIÓN:
-
-https://www.youtube.com/watch?v=UB1O30fR-EE -> HTML FOR BEGGINERS
-
-https://www.youtube.com/watch?v=p0bGHP-PXD4 -> HTML + CSS, ES MAS LARGO PERO ENSEÑA COMO HACER DEPLOY A NETLIFY (SUBIR TU WEB)
-
-https://www.youtube.com/watch?v=4sosXZsdy-s -> HTML + CSS + BOOTSTRAP
-
-https://www.youtube.com/watch?v=hdI2bqOjy3c -> JAVASCRIPT FOR BEGINNERS
-
-https://www.youtube.com/watch?v=JkeyKeK3V24 -> HTML + CSS + JAVASCRIPT
+- GonzaloBernard (logo amarillo)
